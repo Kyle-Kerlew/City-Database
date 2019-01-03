@@ -1,6 +1,6 @@
 # DataBase simulation
-This program preloads a "database" with data for 5 cities and allows you to add more data, search for data, update data, and more.
-
+This program preloads a "database" with data for 5 cities and allows you to add more data, search for data, update data, and more. <br />
+Preloaded cities: Orlando, New York, San Jose, Buffalo, Columbus
 
 ### Instructions to Use
 1.) Download ZIP <br />

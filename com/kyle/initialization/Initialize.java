@@ -141,7 +141,6 @@ public class Initialize {
 	private static void searchCity(Destination[] dest, String cityName, int totalDestinations) {
 		boolean found = false;
 		for (int i = 0; i < totalDestinations; i++) {
-			System.out.printf("Element: %d, contains: %s\n", i, dest[i].getCity());
 			if (dest[i].getCity().equalsIgnoreCase(cityName)) {
 				System.out.printf("City: %s\nPopulation:%d\nCrime rate: %.2f\n", dest[i].getCity(),
 						dest[i].getPopulation(), dest[i].getRobberyRate());
